@@ -14,7 +14,6 @@ The objective of this assignment is to extract textual data from articles given 
 
 ## Data Analysis
 - Perform textual analysis on the extracted texts.
-- Compute variables specified in the "Text Analysis.docx" file.
 - Use Python programming for the data analysis.
 
 ## Variables
